@@ -1,4 +1,5 @@
 -- Active: 1734948296838@@127.0.0.1@3306@command_craft
+
 CREATE DATABASE command_craft;
 
 CREATE TABLE users(
