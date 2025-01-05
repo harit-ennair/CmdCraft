@@ -1,0 +1,15 @@
+{
+    "name": "youcode/cmdcraft",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\CmdCraft\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "harit",
+            "email": "harit@gmail.com"
+        }
+    ],
+    "require": {}
+}
