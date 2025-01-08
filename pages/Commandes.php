@@ -36,7 +36,7 @@
       </div>
       <ul class="nav-links">
         <li>
-          <a href="adminpaje.php" class="active">
+          <a href="adminpaje.php" >
             <i class="bx bx-grid-alt"></i>
             <span class="links_name">Dashboard</span>
           </a>
@@ -48,7 +48,7 @@
           </a>
         </li>
         <li>
-          <a href="Commandes.php">
+          <a href="Commandes.php"class="active">
             <i class="bx bx-list-ul"></i>
             <span class="links_name">Commandes</span>
           </a>

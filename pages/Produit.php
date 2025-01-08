@@ -36,13 +36,13 @@
       </div>
       <ul class="nav-links">
         <li>
-          <a href="adminpaje.php" class="active">
+          <a href="adminpaje.php" >
             <i class="bx bx-grid-alt"></i>
             <span class="links_name">Dashboard</span>
           </a>
         </li>
         <li>
-          <a href="Produit.php">
+          <a href="Produit.php"class="active">
             <i class="bx bx-box"></i>
             <span class="links_name">Produit</span>
           </a>
